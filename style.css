@@ -1,0 +1,22 @@
+.wrapper{
+width:80%;
+}
+.table{
+display:table;
+font-family: 'Times New Roman', Times, serif;
+font-size: 17pt;
+}
+.tableTd{
+width:200px;
+height:200px;
+}
+.tableTdUnion{
+height:200px;
+}
+.row{
+display:table-row;
+}
+html{
+font-family: 'Times New Roman', Times, serif;
+font-size: 25pt;
+}
